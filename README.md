@@ -1,6 +1,6 @@
 # 🎬 TROUBLE — Pipeline ACE-Step 1.5 para Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porchenoche-stack/trouble-colab/blob/main/TROUBLE_pipeline_colab.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jorgelonchAEROIA/trouble-colab/blob/main/TROUBLE_pipeline_colab.ipynb)
 
 Genera la canción **TROUBLE** (rap bilingüe UK / México) con [ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5) y monta un vídeo con tus imágenes. Todo corre en Colab, nada en tu PC.
 
